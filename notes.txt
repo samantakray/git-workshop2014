@@ -69,3 +69,8 @@ git branch <branch name>
 git remote add origin [url]
 	Adds a git remote with the name origin
 	
+git push [remote] [branch]
+	Pushes commits on [branch] to [remote] server
+
+git pull [remote] [branch]
+	Pulls commits on [remote] to our local [branch] 
