@@ -56,6 +56,14 @@ git checkout <branch/commit/etc>
 	switches to that branch/commit/etc
 
 git revert
+	reverses the commit by
 	
+Branches - parallel universes where we can work on different things in isolation
+
+git branch 
+	gives a list of all branches in the repository
+
+git branch <branch name>
+	creates a new branch
 	
 
