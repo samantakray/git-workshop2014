@@ -18,6 +18,15 @@ GIT Commands
 git init
 	Used to create a new Git repository
 
+drgg
+sgs
+ghdsgregrsgsregr
+h
+sehthdshg
+dgsdgdshh
+ting ting ting ting itng ting tinga ting ting tinga ting ting itnga ting
+
+
 git status
 	Tells us the status of our working directory
 	Compares the difference between working directory and staging area
@@ -42,9 +51,12 @@ git log --oneline
 
 git diff <old> <new>
 	Shows us what has changed between any two commits
-	
+
 git diff
 	Shows us what has changed between our working directory and staging area
+
+git add -p
+	Lets us selectively stage changes
 
 
 
