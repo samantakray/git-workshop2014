@@ -50,6 +50,8 @@ git diff
 git add -p
 	Lets us selectively stage changes
 
+HEAD 
 
-
+git checkout
+	
 
