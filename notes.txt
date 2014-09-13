@@ -20,6 +20,9 @@ git init
 
 git status
 	Tells us the status of our working directory
+	Compares the difference between working directory and staging area
+	Also compares difference between staging area and repository
+	Tells if its been modified 
 
 .gitignore
 	Tells git that it should completely ignore a certain file
@@ -35,6 +38,7 @@ git log
 
 git log --oneline
 	Shows us all the commits in oneline
-	
+
+
 
 
