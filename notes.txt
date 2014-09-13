@@ -74,3 +74,8 @@ git push [remote] [branch]
 
 git pull [remote] [branch]
 	Pulls commits on [remote] to our local [branch] 
+
+git clone [url]
+	Clones git repository from github website to your computer desktop
+	Should run this command only when in cd Desktop
+	
