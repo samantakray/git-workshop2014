@@ -50,8 +50,11 @@ git diff
 git add -p
 	Lets us selectively stage changes
 
-HEAD 
+HEAD is a label for the commit we are currently at
 
-git checkout
+git checkout <branch/commit/etc>
+	switches to that branch/commit/etc
+
+	
 	
 
