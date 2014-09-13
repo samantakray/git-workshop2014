@@ -18,14 +18,6 @@ GIT Commands
 git init
 	Used to create a new Git repository
 
-drgg
-sgs
-ghdsgregrsgsregr
-h
-sehthdshg
-dgsdgdshh
-ting ting ting ting itng ting tinga ting ting tinga ting ting itnga ting
-
 
 git status
 	Tells us the status of our working directory
