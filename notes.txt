@@ -22,5 +22,17 @@ git status
 	Tells us the status of our working directory
 
 .gitignore
-	Tells git that
+	Tells git that it should completely ignore a certain file
+
+git add [file]
+	Tells git to start tracking special files or folders
+
+git commit
+	commits changes to the repository
+
+git log
+	Shows us all the commits that were made
+
+
+
 
